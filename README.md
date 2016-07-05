@@ -1,2 +1,3 @@
 # konnichiwa
 A start-page made in HTML, CSS, and JS.
+Still a work in progress...
